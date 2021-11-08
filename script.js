@@ -3,7 +3,7 @@ const randomDamage = () => {
 }
 
 const chooseOption = (opt1, opt2) => {
-    const randomNumber = (Math.round(Math.random));
+    const randomNumber = (Math.round(Math.random()));
     return randomNumber === 0 ? opt1 : opt2; 
 }
 
@@ -40,4 +40,4 @@ function fight(player1, player2, player1Health, player2Health) {
     }
 }
 
-fight('Adam', 'Mitch', 100, 100)
+fight('Adam', 'Mitch', 100, 100);
