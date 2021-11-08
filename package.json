@@ -1,7 +1,7 @@
 {
   "name": "fe-lab-js2",
   "version": "1.0.0",
-  "description": "",
+  "description": "[Instructions.pdf](Instructions.pdf)",
   "main": "script.js",
   "directories": {
     "lib": "lib"
@@ -12,12 +12,19 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
     "jasmine-core": "^3.5.0",
     "karma": "^5.1.0",
     "karma-chrome-launcher": "^3.1.0",
     "karma-cli": "^2.0.0",
     "karma-jasmine": "^3.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gc-submissions/javascript-lab-2-a-brown77.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gc-submissions/javascript-lab-2-a-brown77/issues"
+  },
+  "homepage": "https://github.com/gc-submissions/javascript-lab-2-a-brown77#readme"
 }
